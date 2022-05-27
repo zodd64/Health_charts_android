@@ -1,0 +1,229 @@
+{
+  "activities": [
+        {
+      "activeDuration": 1200000,
+      "activityName": "Walk",
+      "activityTypeId": 90013,
+      "calories": 220,
+      "caloriesLink": "https://api.fitbit.com/1/user/-/activities/calories/date/2020-10-11/2020-10-11/1min/time/13:00/13:00.json",
+      "distance": 14,
+      "distanceUnit": "Kilometer",
+      "duration": 7000,
+      "hasActiveZoneMinutes": false,
+      "lastModified": "2020-12-12T10:36:33.000Z",
+      "logId": 36232955350,
+      "logType": "manual",
+      "manualValuesSpecified": {
+        "calories": true,
+        "distance": true,
+        "steps": false
+      },
+      "originalDuration": 7000,
+      "originalStartTime": "2020-10-11T13:00:00.000+03:00",
+      "pace": 0.5,
+      "source": {
+        "id": "227G5L",
+        "name": "Fitbit Explorer",
+        "trackerFeatures": [],
+        "type": "app",
+        "url": "http://swagger.io/swagger-ui/"
+      },
+      "speed": 7200,
+      "startTime": "2020-10-11T13:00:00.000+03:00",
+      "steps": 2353
+    },
+    {
+      "activeDuration": 900000,
+      "activityName": "Walk",
+      "activityTypeId": 90013,
+      "calories": 180,
+      "caloriesLink": "https://api.fitbit.com/1/user/-/activities/calories/date/2020-10-12/2020-10-12/1min/time/13:00/13:00.json",
+      "distance": 10,
+      "distanceUnit": "Kilometer",
+      "duration": 7000,
+      "hasActiveZoneMinutes": false,
+      "lastModified": "2020-12-12T10:36:41.000Z",
+      "logId": 36228820885,
+      "logType": "manual",
+      "manualValuesSpecified": {
+        "calories": true,
+        "distance": true,
+        "steps": false
+      },
+      "originalDuration": 7000,
+      "originalStartTime": "2020-10-12T13:00:00.000+03:00",
+      "pace": 0.7,
+      "source": {
+        "id": "227G5L",
+        "name": "Fitbit Explorer",
+        "trackerFeatures": [],
+        "type": "app",
+        "url": "http://swagger.io/swagger-ui/"
+      },
+      "speed": 5142.857142857143,
+      "startTime": "2020-10-12T13:00:00.000+03:00",
+      "steps": 1681
+    },
+    {
+      "activeDuration": 1080000,
+      "activityName": "Walk",
+      "activityTypeId": 90013,
+      "calories": 220,
+      "caloriesLink": "https://api.fitbit.com/1/user/-/activities/calories/date/2020-10-13/2020-10-13/1min/time/13:00/13:00.json",
+      "distance": 15,
+      "distanceUnit": "Kilometer",
+      "duration": 8000,
+      "hasActiveZoneMinutes": false,
+      "lastModified": "2020-12-12T10:36:53.000Z",
+      "logId": 36225179557,
+      "logType": "manual",
+      "manualValuesSpecified": {
+        "calories": true,
+        "distance": true,
+        "steps": false
+      },
+      "originalDuration": 8000,
+      "originalStartTime": "2020-10-13T13:00:00.000+03:00",
+      "pace": 0.5333333333333333,
+      "source": {
+        "id": "227G5L",
+        "name": "Fitbit Explorer",
+        "trackerFeatures": [],
+        "type": "app",
+        "url": "http://swagger.io/swagger-ui/"
+      },
+      "speed": 6750,
+      "startTime": "2020-10-13T13:00:00.000+03:00",
+      "steps": 2881
+    },
+    {
+      "activeDuration": 960000,
+      "activityName": "Walk",
+      "activityTypeId": 90013,
+      "calories": 190,
+      "caloriesLink": "https://api.fitbit.com/1/user/-/activities/calories/date/2020-10-14/2020-10-14/1min/time/13:00/13:00.json",
+      "distance": 10,
+      "distanceUnit": "Kilometer",
+      "duration": 8000,
+      "hasActiveZoneMinutes": false,
+      "lastModified": "2020-12-12T10:37:03.000Z",
+      "logId": 36224903747,
+      "logType": "manual",
+      "manualValuesSpecified": {
+        "calories": true,
+        "distance": true,
+        "steps": false
+      },
+      "originalDuration": 8000,
+      "originalStartTime": "2020-10-14T13:00:00.000+03:00",
+      "pace": 0.8,
+      "source": {
+        "id": "227G5L",
+        "name": "Fitbit Explorer",
+        "trackerFeatures": [],
+        "type": "app",
+        "url": "http://swagger.io/swagger-ui/"
+      },
+      "speed": 4500,
+      "startTime": "2020-10-14T13:00:00.000+03:00",
+      "steps": 1921
+    },
+    {
+      "activeDuration": 1320000,
+      "activityName": "Walk",
+      "activityTypeId": 90013,
+      "calories": 250,
+      "caloriesLink": "https://api.fitbit.com/1/user/-/activities/calories/date/2020-10-15/2020-10-15/1min/time/13:00/13:00.json",
+      "distance": 16,
+      "distanceUnit": "Kilometer",
+      "duration": 8000,
+      "hasActiveZoneMinutes": false,
+      "lastModified": "2020-12-12T10:37:12.000Z",
+      "logId": 36231951043,
+      "logType": "manual",
+      "manualValuesSpecified": {
+        "calories": true,
+        "distance": true,
+        "steps": false
+      },
+      "originalDuration": 8000,
+      "originalStartTime": "2020-10-15T13:00:00.000+03:00",
+      "pace": 0.5,
+      "source": {
+        "id": "227G5L",
+        "name": "Fitbit Explorer",
+        "trackerFeatures": [],
+        "type": "app",
+        "url": "http://swagger.io/swagger-ui/"
+      },
+      "speed": 7200,
+      "startTime": "2020-10-15T13:00:00.000+03:00",
+      "steps": 3073
+    },
+    {
+      "activeDuration": 960000,
+      "activityName": "Walk",
+      "activityTypeId": 90013,
+      "calories": 150,
+      "caloriesLink": "https://api.fitbit.com/1/user/-/activities/calories/date/2020-10-16/2020-10-16/1min/time/13:00/13:00.json",
+      "distance": 10,
+      "distanceUnit": "Kilometer",
+      "duration": 8000,
+      "hasActiveZoneMinutes": false,
+      "lastModified": "2020-12-12T10:37:22.000Z",
+      "logId": 36225808795,
+      "logType": "manual",
+      "manualValuesSpecified": {
+        "calories": true,
+        "distance": true,
+        "steps": false
+      },
+      "originalDuration": 8000,
+      "originalStartTime": "2020-10-16T13:00:00.000+03:00",
+      "pace": 0.8,
+      "source": {
+        "id": "227G5L",
+        "name": "Fitbit Explorer",
+        "trackerFeatures": [],
+        "type": "app",
+        "url": "http://swagger.io/swagger-ui/"
+      },
+      "speed": 4500,
+      "startTime": "2020-10-16T13:00:00.000+03:00",
+      "steps": 1921
+    },
+    {
+      "activeDuration": 1140000,
+      "activityName": "Walk",
+      "activityTypeId": 90013,
+      "calories": 190,
+      "caloriesLink": "https://api.fitbit.com/1/user/-/activities/calories/date/2020-10-17/2020-10-17/1min/time/13:00/13:00.json",
+      "distance": 14,
+      "distanceUnit": "Kilometer",
+      "duration": 7000,
+      "hasActiveZoneMinutes": false,
+      "lastModified": "2020-12-12T10:37:31.000Z",
+      "logId": 36233172031,
+      "logType": "manual",
+      "manualValuesSpecified": {
+        "calories": true,
+        "distance": true,
+        "steps": false
+      },
+      "originalDuration": 7000,
+      "originalStartTime": "2020-10-17T13:00:00.000+03:00",
+      "pace": 0.5,
+      "source": {
+        "id": "227G5L",
+        "name": "Fitbit Explorer",
+        "trackerFeatures": [],
+        "type": "app",
+        "url": "http://swagger.io/swagger-ui/"
+      },
+      "speed": 7200,
+      "startTime": "2020-10-17T13:00:00.000+03:00",
+      "steps": 2353
+    }
+  ]
+  
+}
